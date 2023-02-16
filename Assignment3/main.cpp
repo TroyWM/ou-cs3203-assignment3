@@ -1,4 +1,6 @@
 //Troy Miller - Software Engineering assignment 3
+//Part 10 edit woooooooooo
+//Git Bash UI has tools for checking out and making new branches off specific commits.
 
 #include <iostream>
 #include <vector>
